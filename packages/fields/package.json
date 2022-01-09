@@ -1,6 +1,6 @@
 {
-  "name": "fields",
-  "version": "1.0.1",
+  "name": "@blm/vue-fields",
+  "version": "2.0.0",
   "description": "> TODO: description",
   "author": "buzhanguo <zhangjie10@missfresh.cn>",
   "homepage": "https://github.com/buzhanguo-fe/lerna#readme",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/buzhanguo-fe/lerna/issues"
-  }
+  },
+  "gitHead": "5398fea8cc4d3ecbe7164d13a8da9e61163fdbd3"
 }

@@ -1,0 +1,34 @@
+{
+  "name": "@blm/vue-charts",
+  "version": "2.0.0",
+  "description": "> TODO: description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "buzhanguo <zhangjie10@missfresh.cn>",
+  "license": "ISC",
+  "homepage": "https://github.com/buzhanguo-fe/lerna#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://npm.buzhanguo.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buzhanguo-fe/lerna.git"
+  },
+  "bugs": {
+    "url": "https://github.com/buzhanguo-fe/lerna/issues"
+  },
+  "gitHead": "5398fea8cc4d3ecbe7164d13a8da9e61163fdbd3",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

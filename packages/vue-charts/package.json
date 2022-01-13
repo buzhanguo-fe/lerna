@@ -27,8 +27,5 @@
   "bugs": {
     "url": "https://github.com/buzhanguo-fe/lerna/issues"
   },
-  "gitHead": "5398fea8cc4d3ecbe7164d13a8da9e61163fdbd3",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+  "gitHead": "5398fea8cc4d3ecbe7164d13a8da9e61163fdbd3"
 }

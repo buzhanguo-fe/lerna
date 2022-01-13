@@ -1,5 +1,5 @@
 {
-  "name": "@blm/vue-element1",
+  "name": "@blm/vue-element",
   "version": "2.0.4",
   "description": "> TODO: description",
   "author": "buzhanguo <zhangjie10@missfresh.cn>",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/buzhanguo-fe/lerna/issues"
   },
-  "gitHead": "08deb1559e8d835d93288507e1e110a5bfd1fb66"
+  "gitHead": "66f75784a2bd54610c5566f9abc2645ca816797c"
 }

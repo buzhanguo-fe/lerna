@@ -1,5 +1,5 @@
 {
-  "name": "@blm/vue-charts1",
+  "name": "@blm/vue-charts",
   "version": "3.0.3",
   "description": "> TODO: description",
   "main": "index.js",
@@ -27,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/buzhanguo-fe/lerna/issues"
   },
-  "gitHead": "08deb1559e8d835d93288507e1e110a5bfd1fb66"
+  "gitHead": "66f75784a2bd54610c5566f9abc2645ca816797c"
 }
